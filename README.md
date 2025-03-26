@@ -16,11 +16,7 @@ Aqui estão os relacionamentos entre as tabelas:
 
 Aluno pertence a uma Turma (1:N)
 
-Cada aluno está vinculado a uma turma.
-
 Turma tem um Professor (1:N)
-
-Cada turma tem um professor responsável por ela.
 
 Como Usar
 Certifique-se de ter o Docker instalado.
